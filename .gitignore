@@ -1,0 +1,19 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Node dependencies
+node_modules/
+
+# OS files
+.DS_Store
+
+# Virtual environments
+venv/
+
+# Environment files
+.env
+
+# IDE
+.vscode/
+.idea/
