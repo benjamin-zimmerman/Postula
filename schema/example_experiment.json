@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "title": "Example Experiment",
+    "version": "0.1.0"
+  },
+  "hypothesis": "Example hypothesis description.",
+  "design": {},
+  "outcomes": {}
+}
